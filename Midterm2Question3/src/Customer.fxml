@@ -29,10 +29,10 @@
       <Label layoutX="20.0" layoutY="168.0" text="City" />
       <TextField layoutX="84.0" layoutY="164.0" prefHeight="25.0" prefWidth="347.0" />
       <Label layoutX="17.0" layoutY="194.0" text="State" />
-      <TextField layoutX="84.0" layoutY="190.0" prefHeight="25.0" prefWidth="347.0" />
       <Label layoutX="17.0" layoutY="218.0" text="Zip" />
       <TextField layoutX="84.0" layoutY="214.0" prefHeight="25.0" prefWidth="347.0" />
       <Button layoutX="23.0" layoutY="259.0" mnemonicParsing="false" text="Save" />
       <Button layoutX="104.0" layoutY="259.0" mnemonicParsing="false" text="Clear" />
+      <ComboBox layoutX="84.0" layoutY="190.0" prefWidth="150.0" />
    </children>
 </AnchorPane>
